@@ -1,9 +1,3 @@
-Got it — if you **don’t want cloning instructions**, we can make the README **cleaner and product-focused** (which actually looks better for a deployed project).
-
-Here’s a **revised README without cloning / dev setup**.
-
----
-
 # 🔥 ResumeRoast
 
 **Upload your resume. Let AI roast it.**
@@ -94,7 +88,3 @@ The AI suggestions should be used as guidance and not as professional career adv
 
 **Swarnim Ninawe**
 GitHub: [https://github.com/swar-ninawe](https://github.com/swar-ninawe)
-
----
-
-If you want, I can also help you add **GitHub badges and preview images**, which make the repository look **way more professional**.
