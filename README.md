@@ -67,16 +67,6 @@ Clean dark interface with a minimalist design for a smooth experience.
 
 ---
 
-# 🌐 Live Application
-
-Try ResumeRoast here:
-
-👉 [https://resume-roast-roan.vercel.app/](https://resume-roast-roan.vercel.app/)
-
-Upload a resume and see how the AI evaluates it.
-
----
-
 # ⚠️ Disclaimer
 
 ResumeRoast is designed to provide **constructive feedback in a humorous way**.
