@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #050508; /* deeper brand-darker */
+  --foreground: #f8fafc; /* slate-50 */
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+}
+
+/* Custom Scrollbar - Sleeker */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #050508;
+}
+::-webkit-scrollbar-thumb {
+  background: #334155;
+  border-radius: 6px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #9333ea; /* brand-purple hover */
+}
