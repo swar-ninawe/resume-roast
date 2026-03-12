@@ -78,5 +78,6 @@ The AI suggestions should be used as guidance and not as professional career adv
 
 **Swarnim Ninawe**
 GitHub: [https://github.com/swar-ninawe](https://github.com/swar-ninawe)
+
 **Mohammad Ammar**
 GitHub: https://github.com/Mohammedammarmushtaque
